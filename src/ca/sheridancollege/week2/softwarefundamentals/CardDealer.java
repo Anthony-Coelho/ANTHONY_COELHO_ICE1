@@ -15,5 +15,7 @@ public class CardDealer
     {
         Card nineClubs = new Card("Clbs", 9);
         nineClubs.setSuit("diamonds");
+        Card nineClubs = new Card("dimonds", 10);
+        nineClubs.setSuit("hearts");
     }
 }
